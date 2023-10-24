@@ -10,7 +10,7 @@ these technologies. I take a responsible approach to every task.
 - :seedling: Has successfully completed FULL STACK developer course at GoUT
 
 
-- :mailbox: Contacts: [![Telegram Badge](https://img.shields.io/badge/-fil-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Ogorrodnik) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:alexeyf08@gmail.com)
+- :mailbox: Contacts: [![Telegram Badge](https://img.shields.io/badge/-Ohorodnik-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Ogorrodnik) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:yriyelektric@gmail.com)
 
 
 ### 💻 Технологии:
