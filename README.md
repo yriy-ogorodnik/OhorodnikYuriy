@@ -59,4 +59,4 @@ these technologies. I take a responsible approach to every task.
   </tr>
 </table>
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=filimonovalexey)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=yriy-ogorodnik)
