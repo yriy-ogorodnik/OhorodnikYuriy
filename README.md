@@ -1,4 +1,4 @@
-   <p align="center"> YURII OHORODNIK<p/> 
+  # <p align="center"> YURII OHORODNIK<p/> 
  <p align="center">JUNIOR FRONTEND DEVELOPER</p> 
 ---
 ### :man_technologist: About me:
