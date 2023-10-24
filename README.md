@@ -33,7 +33,7 @@ these technologies. I take a responsible approach to every task.
 
 
 <details align="left">
-  <summary><h2><b>⭐GitHub stats</b></h2></summary>
+  <summary><h3><b>⭐GitHub stats</b></h2></summary>
   <p>
    1
    <br>
