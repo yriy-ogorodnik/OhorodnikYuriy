@@ -1,11 +1,12 @@
-
 # YURII OHORODNIK
 JUNIOR FRONTEND DEVELOPER
 ---
-
 ### :man_technologist: Обо мне:
+I am a Junior Front End developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. with a focus on HTML5, CSS3, JS, React,
+and English language. Development, practice, and achieving results are
+important to me. I have experience in developing several small projects using
+these technologies. I take a responsible approach to every task.
 
-Я начинающий веб разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой путь в it начался со Школы 21 от Сбера, где я прошел интенсив. После интенсива был промежуток в пару месяцев, где я пробовал себя во многих направлениях, пробовал изучать язык Си, Python, попробовал свои силы в data science, но больше всего меня зацепила веб разработка! С мая 2022 года по апрель 2023 я изучал веб разработку на курсах Яндекс Практикум. В настоящий момент мое обучение на курсе завершено и я нахожусь в поисках работы, параллельно с этим я стал Старшим студентом на курсе и помогаю новичкам осваивать веб-разработку!
 
 <p align="center">
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
