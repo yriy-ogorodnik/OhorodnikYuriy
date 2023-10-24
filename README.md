@@ -33,14 +33,53 @@ these technologies. I take a responsible approach to every task.
 
 
 <details align="left">
-  <summary><h3><b>⭐GitHub stats</b></h2></summary>
-  <p>
-   1
-   <br>
-   2
-    <br>
-   3
-  </p>
+  <summary><h3><b>⭐My projects:</b></h2></summary>
+<ul>
+  <li>
+<b><a href="https://khailoandrey.github.io/final-project-frontend/" target="_blank" rel="noreferrer">Chut</a> :</b>
+<ul>
+<li><a href="https://github.com/yriy-ogorodnik/socket-server" target="_blank" rel="noreferrer">Backend</a> [Node.js, Express.js, Socket.IO]  </li>
+<li><a href="https://github.com/yriy-ogorodnik/socket-client" target="_blank" rel="noreferrer">Frontend</a> [HTML, CSS, React] <a href="https://sparkly-nasturtium-7a1cd2.netlify.app/" target="_blank" rel="noreferrer"></a></li>
+</ul> 
+</li>
+  
+<li>
+<b><a href="https://khailoandrey.github.io/final-project-frontend/" target="_blank" rel="noreferrer">Your Pet</a> (team project):</b>
+<ul>
+<li><a href="https://github.com/TaitanB/final-project-backend" target="_blank" rel="noreferrer">Backend</a> [Node.js, Express.js, MongoDB, Cloudinary, Swagger] <a href="https://final-project-backend-4o0r.onrender.com/api-docs/#/" target="_blank" rel="noreferrer">api-docs</a> </li>
+<li><a href="https://github.com/KhailoAndrey/final-project-frontend" target="_blank" rel="noreferrer">Frontend</a> [HTML, CSS, styled-components, React, Redux.js/toolkit]</li>
+</ul> 
+</li>
+
+<li>
+<b><a href="https://github.com/yriy-ogorodnik/goit-react-hw-05-movies" target="_blank" rel="noreferrer">Movies</a> </b>[HTML, module.css, React] <a href="https://yriy-ogorodnik.github.io/goit-react-hw-05-movies" target="_blank" rel="noreferrer">link</a>
+</li>
+
+<li>
+<b><a href="https://dimakhukr.github.io/project_13_js/" target="_blank" rel="noreferrer">News</a> (team project) </b>[HTML, CSS, JS] <a href="https://github.com/DimaKhUkr/project_13_js" target="_blank" rel="noreferrer">link</a>
+</li>
+<li>
+<b><a href="https://khailoandrey.github.io/Project_13/" target="_blank" rel="noreferrer">Shop for gamers</a> (team project) </b>[HTML, SCSS, JS] <a href="https://github.com/KhailoAndrey/Project_13" target="_blank" rel="noreferrer">link</a>
+</li>
+<li>
+<b><a href="https://github.com/yriy-ogorodnik/goit-markup-hw-08" target="_blank" rel="noreferrer">Web Studio</a> </b>[HTML, SCSS, JS] <a href="https://yriy-ogorodnik.github.io/goit-markup-hw-08/" target="_blank" rel="noreferrer">link</a>
+</li>
+<li>
+<b><a href="https://github.com/yriy-ogorodnik/relvise" target="_blank" rel="noreferrer">relvise</a> </b> [HTML, CSS] <a href="https://yriy-ogorodnik.github.io/relvise/" target="_blank" rel="noreferrer">link</a>
+</li>
+<li>
+<b><a href="https://github.com/yriy-ogorodnik/John" target="_blank" rel="noreferrer">John</a> </b> [HTML, CSS] <a href="https://yriy-ogorodnik.github.io/John/" target="_blank" rel="noreferrer">link</a>
+</li>
+<li>
+<b><a href="https://github.com/yriy-ogorodnik/burning_men" target="_blank" rel="noreferrer">burning_men</a> </b> [HTML, CSS] <a href="https://yriy-ogorodnik.github.io/burning_men/" target="_blank" rel="noreferrer">link</a>
+</li>
+<li>
+<b><a href="https://github.com/yriy-ogorodnik/GoCorona" target="_blank" rel="noreferrer">GoCorona</a> </b> [HTML, CSS] <a href="https://yriy-ogorodnik.github.io/GoCorona/" target="_blank" rel="noreferrer">link</a>
+</li>
+<li>
+<b><a href="https://github.com/yriy-ogorodnik/firs_projekt" target="_blank" rel="noreferrer">Bike</a> </b>[HTML, SCSS, JS] <a href="https://yriy-ogorodnik.github.io/firs_projekt/" target="_blank" rel="noreferrer">link</a>
+</li>
+</ul>
 </details>
 
 ### 💻 Codewars:
