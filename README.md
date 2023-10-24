@@ -1,6 +1,4 @@
   # <p align="center"> YURII OHORODNIK<p/> 
- <p align="center">JUNIOR FRONTEND DEVELOPER</p> 
----
 ### :man_technologist: About me:
 I am a Junior Front End developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"> with a focus on HTML5, CSS3, JS, React,
 and English language. Development, practice, and achieving results are
