@@ -39,14 +39,14 @@ these technologies. I take a responsible approach to every task.
 <b><a href="https://khailoandrey.github.io/final-project-frontend/" target="_blank" rel="noreferrer">Chut</a> :</b>
 <ul>
 <li><a href="https://github.com/yriy-ogorodnik/socket-server" target="_blank" rel="noreferrer">Backend</a> [Node.js, Express.js, Socket.IO]  </li>
-<li><a href="https://github.com/yriy-ogorodnik/socket-client" target="_blank" rel="noreferrer">Frontend</a> [HTML, CSS, React] <a href="https://sparkly-nasturtium-7a1cd2.netlify.app/" target="_blank" rel="noreferrer"></a></li>
+<li><a href="https://github.com/yriy-ogorodnik/socket-client" target="_blank" rel="noreferrer">Frontend</a> [HTML, CSS, React] <a href="https://sparkly-nasturtium-7a1cd2.netlify.app/" target="_blank" rel="noreferrer">link</a></li>
 </ul> 
 </li>
   
 <li>
 <b><a href="https://khailoandrey.github.io/final-project-frontend/" target="_blank" rel="noreferrer">Your Pet</a> (team project):</b>
 <ul>
-<li><a href="https://github.com/TaitanB/final-project-backend" target="_blank" rel="noreferrer">Backend</a> [Node.js, Express.js, MongoDB, Cloudinary, Swagger] <a href="https://final-project-backend-4o0r.onrender.com/api-docs/#/" target="_blank" rel="noreferrer">api-docs</a> </li>
+<li><a href="https://github.com/TaitanB/final-project-backend" target="_blank" rel="noreferrer">Backend</a> [Node.js, Express.js, MongoDB, Cloudinary, Swagger] </li>
 <li><a href="https://github.com/KhailoAndrey/final-project-frontend" target="_blank" rel="noreferrer">Frontend</a> [HTML, CSS, styled-components, React, Redux.js/toolkit]</li>
 </ul> 
 </li>
