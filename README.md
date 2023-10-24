@@ -1,6 +1,6 @@
 
-# Привіт, мене звати Юрій!
-
+# YURII OHORODNIK
+JUNIOR FRONTEND DEVELOPER
 ---
 
 ### :man_technologist: Обо мне:
