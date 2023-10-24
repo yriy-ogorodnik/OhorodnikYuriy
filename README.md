@@ -36,7 +36,7 @@ these technologies. I take a responsible approach to every task.
   <summary><h3><b>⭐My projects:</b></h2></summary>
 <ul>
   <li>
-<b><a href="https://khailoandrey.github.io/final-project-frontend/" target="_blank" rel="noreferrer">Chut</a> :</b>
+<b><a href="https://github.com/yriy-ogorodnik/socket-client" target="_blank" rel="noreferrer">Chut</a> :</b>
 <ul>
 <li><a href="https://github.com/yriy-ogorodnik/socket-server" target="_blank" rel="noreferrer">Backend</a> [Node.js, Express.js, Socket.IO]  </li>
 <li><a href="https://github.com/yriy-ogorodnik/socket-client" target="_blank" rel="noreferrer">Frontend</a> [HTML, CSS, React] <a href="https://sparkly-nasturtium-7a1cd2.netlify.app/" target="_blank" rel="noreferrer">link</a></li>
