@@ -32,7 +32,7 @@ these technologies. I take a responsible approach to every task.
 </p>
 
 
-<details align="left">
+
   <summary><h3><b>⭐My projects:</b></h2></summary>
 <ul>
   <li>
@@ -80,7 +80,7 @@ these technologies. I take a responsible approach to every task.
 <b><a href="https://github.com/yriy-ogorodnik/firs_projekt" target="_blank" rel="noreferrer">Bike</a> </b>[HTML, SCSS, JS] <a href="https://yriy-ogorodnik.github.io/firs_projekt/" target="_blank" rel="noreferrer">link</a>
 </li>
 </ul>
-</details>
+
 
 ### 💻 Codewars:
 
